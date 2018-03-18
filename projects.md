@@ -5,4 +5,4 @@ categories: projects
 permalink: /projects/
 ---
 
-This are my projects bro
+This are my projects bro!
